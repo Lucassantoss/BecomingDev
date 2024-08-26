@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Eletroíns - Instalações Elétricas</title>
+	<link rel="icon" href=imagens/favicon.png type="image/x-icon">
+	<meta charset="utf-8">
+	<link rel="stylesheet" type="text/css" href="css/estilo.css">
+</head>
+<body>
+
+	<div id="area-cabecalho">
+		
+		<div id="area-logo">
+			<img width="500px" src="imagens/logo_sem_fundo.png">
+		</div>
+		<div id="AreaMenu">
+			<a style="font-size: 30px;" href="index.html">Home</a>
+			<a style="font-size: 30px;" href="jogos.html">Serviços</a>
+			<a style="font-size: 30px;" href="celulares.html">Contato</a>
+		</div>
+
+	</div>
+
+	<div id="area-principal">
+
+		<div id="area-postagens">
+			
+			<!-- abertura postagem -->
+			<div class="postagem">
+				<h2>Infra-estrutura Elétrica</h2>
+				<span class="data-postagem">postado 26/08/2024</span>
+
+				<img width="620px" src="imagens/eletrocalhas.png">
+				<p>
+				Oferecemos serviços de alta qualidade em infraestrutura elétrica, com foco na instalação, manutenção e atualização de sistemas, utilizando práticas modernas e tecnologias avançadas para garantir eficiência, segurança e economia. Nossa equipe experiente está comprometida em atender às necessidades dos clientes com soluções personalizadas, suporte técnico contínuo e cumprimento rigoroso de prazos e orçamentos.
+                </p>
+				<a href="">Leia mais</a>
+			</div><!--// fechamento postagem -->
+
+			<!-- abertura postagem -->
+			<div class="postagem">
+				<h2>Automação Industrial</h2>
+				<span class="data-postagem">postado 26/08/2024</span>
+				<img width="620px" src="imagens/automacao.png">
+				<p>
+					Oferecemos serviços especializados em automação industrial, focando na integração de sistemas avançados para otimizar processos, aumentar a eficiência e reduzir custos operacionais. Nossa equipe experiente utiliza as mais recentes tecnologias para desenvolver soluções personalizadas que atendem às necessidades específicas de cada cliente, garantindo confiabilidade e alto desempenho. Com um compromisso com a excelência, prestamos suporte contínuo, assegurando que todos os projetos sejam entregues no prazo e com a máxima qualidade.
+				</p>
+				<a href="">Leia mais</a>
+			</div><!--// fechamento postagem -->
+
+		</div>
+		<div id="area-lateral">
+			
+
+			<div class="conteudo-lateral">
+				<h3>Postagens recentes</h3>
+				
+				<div class="postagem-lateral">
+					<p>Ultimos trabalhos realizados por nossa equipe a campo.</p>
+					<a href="">Leia mais</a>
+				</div>
+
+				<div class="postagem-lateral" style="border-bottom: none;">
+					<p>Eficiencia, qualidade e pontualidade.</p>
+					<a href="">Leia mais</a>
+				</div>
+
+			</div>
+
+			<div class="conteudo-lateral">
+				<h3>Categorias</h3>
+				
+				<a href="">Infra-Estrutura</a><br>
+				<a href="">Auromação Industrial</a><br>
+				<a href="">Instalções Elétricas</a><br>
+				<a href="">Segurança Eletrônica</a><br>
+				<a href="">Desenvolvimento de Software</a><br>
+
+			</div>
+
+
+		</div>
+
+		<div id="rodape">
+			Todos os direitos reservados
+		</div>
+
+	</div>
+
+</body>
+</html>
